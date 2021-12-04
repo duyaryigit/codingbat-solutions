@@ -1,4 +1,4 @@
-# Codingbat Solutions
+# CodingBat Solutions
 In this repository, there are my codingbat solutions.
 
 ### Sections:
